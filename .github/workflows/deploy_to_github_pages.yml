@@ -3,7 +3,7 @@ name: Deploy Sphinx Docs to GitHub Pages.
 on:
   push:
     branches:
-        - ["main"]  # mainブランチでトリガー
+        - '**'  # 全てのブランチでトリガー
 
 permissions:
   contents: write  # 必要な権限を設定
