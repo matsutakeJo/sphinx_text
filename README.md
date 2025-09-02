@@ -1,3 +1,3 @@
 # SPHINX TEST
 
-[document](https://matsutakeJo.github.io/sphinx_test/)
+[document](https://matsutakejo.github.io/sphinx_text/)
